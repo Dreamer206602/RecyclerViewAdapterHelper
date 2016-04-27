@@ -1,6 +1,12 @@
 # 原创地址  
 https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 
+# 用到的MaterialSpinner
+* https://github.com/jaredrummler/Material-Spinner
+* compile 'com.jaredrummler:material-spinner:1.0.6'
+
+
+
 # BaseRecyclerViewAdapterHelper（[中文版文档](https://github.com/CymChad/BaseRecyclerViewAdapterHelper/blob/master/README-cn.md)）
 Powerful and flexible RecyclerAdapter 
 Please feel free to use this.(Love can be a **Star**)
