@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">RecyclerViewAdapterHelper</string>
     <string name="no_data">there is no data</string>
+    <string name="RecyclerView_LinearLayoutManager">LinearLayoutManager</string>
 </resources>
