@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewAdapterHelper.iml" filepath="$PROJECT_DIR$/RecyclerViewAdapterHelper.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material_spiner/material_spiner.iml" filepath="$PROJECT_DIR$/material_spiner/material_spiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewlib/recyclerviewlib.iml" filepath="$PROJECT_DIR$/recyclerviewlib/recyclerviewlib.iml" />
     </modules>
   </component>
 </project>

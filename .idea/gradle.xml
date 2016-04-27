@@ -9,12 +9,16 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/material_spiner" />
+            <option value="$PROJECT_DIR$/recyclerviewlib" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/material_spiner" />
+            <option value="$PROJECT_DIR$/recyclerviewlib" />
           </set>
         </option>
       </GradleProjectSettings>
