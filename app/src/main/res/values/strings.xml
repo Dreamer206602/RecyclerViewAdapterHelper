@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerViewAdapterHelper</string>
+    <string name="no_data">there is no data</string>
 </resources>
